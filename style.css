@@ -77,35 +77,48 @@ p{
 .biography{
     background-image: url(images/biography-bg.png);
     background-repeat: no-repeat;
+    background-position: 100%;
     position: relative;
     top: 100%;
  
-}
-#latestwork{
+ }
+ h2{
     font-size: 35px;
     text-align: center;
-    text-posi
 
 }
 .latestimg{
     border-right: 15%;
-    
     position: relative;
     left: 7%;
     width: 20%;
-    margin-left: 5%;
+    margin-left: 4%;
     padding-left: 1%;
-   float: left;
+    float: left;
+    padding-top: 7%
+  
 }
 .latestimg img{
     width: 120%;
+    background-repeat: no-repeat;
     
 }
-.latestworkbg{
+.latestworkbg{ 
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
-    position: relative;
+    background-size: 110%;
   
-    background-size: 100%;
-
 }
+h5{
+    font-size: 18px;
+    text-align: center;
+}
+#jbhome{
+ 
+   
+   font-size: 13px;
+    text-align: center;
+    color: dimgrey;
+    border: 2px solid red;
+}
+ 
