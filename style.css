@@ -80,6 +80,32 @@ p{
     position: relative;
     top: 100%;
  
+}
+#latestwork{
+    font-size: 35px;
+    text-align: center;
+    text-posi
 
-   
+}
+.latestimg{
+    border-right: 15%;
+    
+    position: relative;
+    left: 7%;
+    width: 20%;
+    margin-left: 5%;
+    padding-left: 1%;
+   float: left;
+}
+.latestimg img{
+    width: 120%;
+    
+}
+.latestworkbg{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    position: relative;
+  
+    background-size: 100%;
+
 }
